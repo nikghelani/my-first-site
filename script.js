@@ -4,4 +4,5 @@ window.onload = function() {
     button.addEventListener('click', function() {
       alert("Let's Rock!!");
     });
+    var today = new this.Date();
   }
